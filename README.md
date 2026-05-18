@@ -2,6 +2,8 @@
 
 Aplicativo Android desenvolvido com Kotlin e Jetpack Compose para conectar clientes a profissionais de serviços.
 
+---
+
 ## Sobre o projeto
 
 O Top Serviços foi criado com o objetivo de facilitar a conexão entre clientes e profissionais de diversas áreas, oferecendo uma interface moderna, navegação intuitiva e integração com backend em tempo real.
@@ -12,45 +14,21 @@ Esta versão do projeto foi adaptada para fins de portfólio.
 
 ## Screenshots
 
-### Tela inicial
+<p align="center">
+  <img src="screenshots/home-screen.png" width="250"/>
+  <img src="screenshots/signup-screen.png" width="250"/>
+  <img src="screenshots/login-screen.png" width="250"/>
+</p>
 
-![Home](screenshots/home-screen.png)
+<p align="center">
+  <img src="screenshots/client-screen.png" width="250"/>
+  <img src="screenshots/professional-screen.png" width="250"/>
+  <img src="screenshots/reviews-screen.png" width="250"/>
+</p>
 
----
-
-### Tela de cadastro
-
-![Signup](screenshots/signup-screen.png)
-
----
-
-### Tela de login
-
-![Login](screenshots/login-screen.png)
-
----
-
-### Tela do cliente
-
-![Client](screenshots/client-screen.png)
-
----
-
-### Tela do profissional
-
-![Professional](screenshots/professional-screen.png)
-
----
-
-### Tela de avaliações
-
-![Reviews](screenshots/reviews-screen.png)
-
----
-
-### Tela de solicitação de serviço
-
-![Service Request](screenshots/service-request-screen.png)
+<p align="center">
+  <img src="screenshots/service-request-screen.png" width="250"/>
+</p>
 
 ---
 
