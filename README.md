@@ -10,6 +10,50 @@ Esta versão do projeto foi adaptada para fins de portfólio.
 
 ---
 
+## Screenshots
+
+### Tela inicial
+
+![Home](screenshots/home-screen.png)
+
+---
+
+### Tela de cadastro
+
+![Signup](screenshots/signup-screen.png)
+
+---
+
+### Tela de login
+
+![Login](screenshots/login-screen.png)
+
+---
+
+### Tela do cliente
+
+![Client](screenshots/client-screen.png)
+
+---
+
+### Tela do profissional
+
+![Professional](screenshots/professional-screen.png)
+
+---
+
+### Tela de avaliações
+
+![Reviews](screenshots/reviews-screen.png)
+
+---
+
+### Tela de solicitação de serviço
+
+![Service Request](screenshots/service-request-screen.png)
+
+---
+
 ## Tecnologias utilizadas
 
 - Kotlin
